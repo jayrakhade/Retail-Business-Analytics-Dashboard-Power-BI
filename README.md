@@ -22,5 +22,6 @@ This **Power BI dashboard project** was developed to analyze a **retail dataset*
 ✅ Advanced Visualizations (Maps, Pie Charts, Bar Graphs, Time Series)  
 
 ## **Project Deliverables**  
-📊 **Power BI Dashboard** – Interactive report covering key business insights.  
+📊 **Power BI Dashboard** – Interactive report covering key business insights.
+📑 Business Analysis Report – Detailed findings and recommendations.
 🚀 **This project strengthened my expertise in Power BI, business analytics, and retail data-driven decision-making.**
